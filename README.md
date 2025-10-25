@@ -19,17 +19,6 @@ Storage: Binary file (BILL.dat)
 
 Platform: Windows / Linux
 
-File Structure:
-CUSTOMER-BILLING-SYSTEM/
-│
-├── CUSTOMER-PROJECT/
-│ ├── BILL.dat → Stores all invoice records
-│ ├── main.c → Main source code
-│ ├── customer.h → Header file for customer data structures
-│ ├── functions.c → Supporting functions
-│ └── ... → Additional modules
-│
-└── README.md
 
 Setup and Usage:
 
